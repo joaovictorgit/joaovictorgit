@@ -4,12 +4,13 @@
 ### - Ciência da Computação, pela Universidade Federal do Ceará, Campus de Quixadá
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=joaovictorgit&show_icons=true&theme=dark)
 
 
-<div>
-  <a href="https://github.com/joaovictorgit?tab=repositories">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaovictorgit&layout=compact&langs_count=7&theme=dark"/>
+
+<div align="center">
+  <a href="https://github.com/joaovictorgit">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaovictorgit&layout=compact&langs_count=7&theme=dark"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaovictorgit&layout=compact&langs_count=8&theme=dark"/>
 </div>
 
 <div style="display: inline_block"><br>
