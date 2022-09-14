@@ -2,7 +2,7 @@
 
 ### - Técnico de Informática
 ### - Ciência da Computação, pela Universidade Federal do Ceará, Campus de Quixadá
-
+### - [Portfolio](https://portfoliooficial-rouge.vercel.app/)
 
 
 
