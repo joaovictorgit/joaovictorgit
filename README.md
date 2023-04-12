@@ -2,7 +2,7 @@
 
 ### - Técnico de Informática
 
-### - Cursando Ciência da Computação
+### - Cursando Análise e Desenvolvimento de Sistemas
 
 ### - Acesse o [Portfolio](https://portfoliooficial-rouge.vercel.app/) para mais informações
 
