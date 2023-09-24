@@ -4,8 +4,10 @@
 
 ### - Cursando Análise e Desenvolvimento de Sistemas
 
+### - OBS: Novo Portfolio em desenvolvimento
+<!--
 ### - Acesse o [Portfolio](https://portfoliooficial-rouge.vercel.app/) para mais informações
-
+-->
 <div align="center">
   <a href="https://github.com/joaovictorgit">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=joaovictorgit&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
