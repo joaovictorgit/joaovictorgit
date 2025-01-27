@@ -54,7 +54,7 @@ Here are some ideas to get you started:
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=42b883&height=120&section=header"/>
   
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=42b883&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+my+name+is+João+Victor+;I'm+22+years+old;I+am+Full+Stack+Developer;%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=42b883&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+my+name+is+João+Victor+;I'm+23+years+old;I+am+Full+Stack+Developer;%29)](https://git.io/typing-svg)
 
 
 <div align="center">  
@@ -77,6 +77,8 @@ Here are some ideas to get you started:
 ![Node.JS](https://img.shields.io/badge/-Node.JS-0D1117?style=for-the-badge&logo=node.js&labelColor=0D1117&textColor=0D1117)&nbsp;
 ![TypeScript](https://img.shields.io/badge/-TypeScript-0D1117?style=for-the-badge&logo=typescript&labelColor=0D1117&textColor=0D1117)&nbsp;
 ![React Native](https://img.shields.io/badge/-React_NAtive-0D1117?style=for-the-badge&logo=react&labelColor=0D1117)&nbsp;
+![Vue.JS](https://img.shields.io/badge/-Vue.JS-0D1117?style=for-the-badge&logo=vue.js&labelColor=0D1117&textColor=0D1117)&nbsp;
+![Firebase](https://img.shields.io/badge/-Firebase-0D1117?style=for-the-badge&logo=firebase&labelColor=0D1117)&nbsp;
  
 ### Tools:
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-0D1117?style=for-the-badge&logo=visual-studio-code&logoColor=0D1117&labelColor=0D1117)&nbsp;
@@ -87,7 +89,7 @@ Here are some ideas to get you started:
  
 ### Other Knowledge:
 ![HTML](https://img.shields.io/badge/-HTML-0D1117?style=for-the-badge&logo=html5&labelColor=0D1117)&nbsp;
-![CSS](https://img.shields.io/badge/-CSS-0D1117?style=for-the-badge&logo=CSS3&logoColor=1572B6&labelColor=0D1117)&nbsp;
+![CSS](https://img.shields.io/badge/-CSS-0D1117?style=for-the-badge&logo=CSS3&logoColor=1572B6&labelColor=0D1117)&
 ![Angular](https://img.shields.io/badge/-angular-0D1117?style=for-the-badge&logo=angular&logoColor=dd1b16&labelColor=0D1117)&nbsp; 
 ![React js](https://img.shields.io/badge/-react_JS-0D1117?style=for-the-badge&logo=react&logoColor=&labelColor=0D1117)&nbsp; 
 ![Android](https://img.shields.io/badge/-android-0D1117?style=for-the-badge&logo=android&logoColor=&labelColor=0D1117)&nbsp; 
@@ -99,8 +101,9 @@ Here are some ideas to get you started:
 ![PostgreSQL](https://img.shields.io/badge/-docker-0D1117?style=for-the-badge&logo=docker&labelColor=0D1117)&nbsp;
 
 ### Studying in this moment:
-![Vue.JS](https://img.shields.io/badge/-Vue.JS-0D1117?style=for-the-badge&logo=vue.js&labelColor=0D1117&textColor=0D1117)&nbsp;
-![Firebase](https://img.shields.io/badge/-Firebase-0D1117?style=for-the-badge&logo=firebase&labelColor=0D1117)&nbsp;
+![Nest.Js](https://img.shields.io/badge/-Nest.JS-0D1117?style=for-the-badge&logo=nestjs&logoColor=E0234E&labelColor=0D1117&textColor=0D1117)&nbsp;
+![AWS](https://img.shields.io/badge/-Amazon_Web_Services-0D1117?style=for-the-badge&logo=amazon&logoColor=ff9900&labelColor=0D1117&textColor=0D1117)&nbsp;
+![Cypress](https://img.shields.io/badge/-Cypress-0D1117?style=for-the-badge&logo=cypress&labelColor=0D1117)&nbsp;
 
 
 <div align="center">
