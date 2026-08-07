@@ -15,6 +15,7 @@ Building scalable applications with modern technologies.
 - 🎯 Focused on scalable and well-structured systems
 - 📚 Currently studying: NestJS, AWS & Testing
 - 🌎 Brazil
+- 🌐 Portfolio: https://portfolio-six-green-73.vercel.app/
 
 ---
 
