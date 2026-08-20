@@ -28,7 +28,7 @@ Building scalable applications with modern technologies.
         <img width="420px" src="https://github-readme-stats-eight-theta.vercel.app/api?username=joaovictorgit&show_icons=true&theme=tokyonight&count_private=true&hide_border=true&bg_color=0d1117" />
       </td>
       <td>
-        <img width="420px" src="https://github-readme-streak-stats.herokuapp.com/?user=joaovictorgit&theme=tokyonight&hide_border=true&background=0d1117" />
+        <img width="420px" src="https://streak-stats.demolab.com/?user=joaovictorgit&theme=tokyonight&hide_border=true&background=0d1117" />
       </td>
     </tr>
     <tr>
